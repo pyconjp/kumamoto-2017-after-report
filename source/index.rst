@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 「PyCon mini Kumamoto 2017」開催後レポート's documentation!
-======================================================================
+「PyCon mini Kumamoto 2017」開催後レポート
+==========================================
 
 .. toctree::
    :maxdepth: 2
