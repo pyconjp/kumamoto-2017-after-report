@@ -10,6 +10,8 @@
    :maxdepth: 2
    :caption: Contents:
 
+   reports
+   impressions
 
 
 Indices and tables
