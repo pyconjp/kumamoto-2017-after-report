@@ -11,7 +11,6 @@
    :caption: Contents:
 
    reports
-   impressions
 
 
 Indices and tables
